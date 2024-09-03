@@ -1,0 +1,4 @@
+playerID,birthYear,birthMonth,birthDay,birthCountry,birthState,birthCity,deathYear,deathMonth,deathDay,deathCountry,deathState,deathCity,nameFirst,nameLast,nameGiven,weight,height,bats,throws,debut,finalGame,retroID,bbrefID
+alvarab01,1982,12,17,USA,CA,Los Angeles,,,,,,,Abe,Alvarez,Abraham,190,74,L,L,2004-07-22,2006-05-21,alvaa001,alvarab01
+alvarcl01,1968,5,18,Venezuela,Anzoategui,Guanta,,,,,,,Clemente,Alvarez,Clemente Rafael,180,71,X,X,2000-09-19,2000-10-01,alvac001,alvarcl01      # Invalid bats and throws value
+alvarda01,1989,1,17,D.R.,Santiago,Santiago,,,,,,,Dario,Alvarez,Dario Rafael,170,73,L,L,2014-09-03,,alvad001,alvarda01
